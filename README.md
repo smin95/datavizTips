@@ -1,4 +1,4 @@
-# Source Code for the Paper Entitled "Ten simple rules for performing clear and reproducible data visualization"
+# Source Code for the Paper Entitled "Eleven quick tips for performing clear and reproducible data visualization"
 
 Seung Hyun Min
 
